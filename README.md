@@ -1,4 +1,4 @@
-# :open_book: jpashop-main : Spring Boot + JPA 심플 쇼핑몰
+# 🗂️ jpashop-main : Spring Boot + JPA 심플 쇼핑몰
 
 - Java(JPA) + html(Thymeleaf) + css 로 작성 <br />
 - bootstrap 활용 <br />
